@@ -1,0 +1,5 @@
+# portfolio
+My Portfolio
+
+
+PLEASE INSTALL NODE PACKAGES SO YOU CAN VIEW THE SITE
