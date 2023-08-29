@@ -2,4 +2,4 @@
 My Portfolio
 
 
-PLEASE INSTALL NODE PACKAGES SO YOU CAN VIEW THE SITE
+This is my portfolio NodeJS Web application
